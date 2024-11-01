@@ -1,0 +1,7 @@
+In this project
+user post lik payenge 
+login and register
+logout
+post creation
+post like 
+pots delete
